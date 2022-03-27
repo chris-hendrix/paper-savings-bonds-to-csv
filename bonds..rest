@@ -8,4 +8,13 @@ Content-Type: text/html
 POST https://treasurydirect.gov/BC/SBCPrice?RedemptionDate=03%2F2022&Series=EE&Denomination=50&SerialNumber=d54784608ee&IssueDate=10%2F1999&btnAdd.x=CALCULATERedemptionDate=971&ViewPos=1&ViewType=Partial&Version=6
 Content-Type: text/html
 
+### POST user 
+POST https://treasurydirect.gov/BC/SBCPrice?RedemptionDate=03%2F2022&Series=EE&Denomination=50&SerialNumber=d54784608ee&IssueDate=10%2F1999&btnAdd.x=CALCULATERedemptionDate=971&ViewPos=1&ViewType=Partial&Version=6
+Content-Type: text/html
+
+### POST
+POST https://treasurydirect.gov/BC/SBCPrice?RedemptionDate=03%2F2022&Series=EE&Denomination=50&SerialNumber=d54784608ee&IssueDate=10%2F1999&btnAdd.x=CALCULATERedemptionDate%3D971&ViewPos=1&ViewType=Partial&Version=6
+
+Content-Type: text/html
+
 
